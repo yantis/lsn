@@ -30,6 +30,12 @@ lsn is a command-line utility that extends the ls command by adding the ability 
     ```
 4. (Optional) Add the compiled lsn executable to your $PATH to make it available system-wide.
 
+
+## Archlinux 
+If you use Archlinux there is a package on the AUR called lsn-git
+https://aur.archlinux.org/packages/lsn-git
+
+
 ## Usage
 
 lsn [OPTION]... [FILE]... [DESCRIPTION]...
