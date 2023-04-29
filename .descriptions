@@ -1,0 +1,8 @@
+LICENSE|MIT%20License%20File
+lsn.c|C%20Source%20Code%20file%20for%20the%20lsn%20project
+Makefile|Makefile%20for%20the%20lsn%20project
+README.md|README%20file%20in%20Markdown%20format
+lsn-1.c|c%20file%20with%20encoding%20test
+--color|-version
+.descriptions|descriptions%20file%20for%20lsn
+example.png|Screenshot%20example%20of%20lsn%20program%20usage
